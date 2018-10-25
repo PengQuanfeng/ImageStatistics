@@ -1,0 +1,9 @@
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsIDAL\bin\Release\ImageStatisticsIDAL.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsIDAL\bin\Release\ImageStatisticsIDAL.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsIDAL\bin\Release\Elephant.Core.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsIDAL\bin\Release\ImageStatisticsModel.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsIDAL\bin\Release\ImageStatisticsModel.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsIDAL\obj\Release\ImageStatisticsIDAL.csprojResolveAssemblyReference.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsIDAL\obj\Release\ImageStatisticsIDAL.csproj.CoreCompileInputs.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsIDAL\obj\Release\ImageStatisticsIDAL.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsIDAL\obj\Release\ImageStatisticsIDAL.pdb

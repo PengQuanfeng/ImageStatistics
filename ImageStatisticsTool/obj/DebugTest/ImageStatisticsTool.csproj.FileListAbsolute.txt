@@ -1,0 +1,11 @@
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\bin\DebugTest\ImageStatisticsTool.exe.config
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\bin\DebugTest\ImageStatisticsTool.exe
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\bin\DebugTest\ImageStatisticsTool.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\DebugTest\ImageStatisticsTool.csproj.ResolveComReference.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\DebugTest\ImageStatisticsTool.frmProcessExcel.resources
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\DebugTest\ImageStatisticsTool.Properties.Resources.resources
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\DebugTest\ImageStatisticsTool.csproj.GenerateResource.Cache
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\DebugTest\ImageStatisticsTool.csproj.CoreCompileInputs.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\DebugTest\ImageStatisticsTool.exe
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\DebugTest\ImageStatisticsTool.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\DebugTest\ImageStatisticsTool.csprojResolveAssemblyReference.cache

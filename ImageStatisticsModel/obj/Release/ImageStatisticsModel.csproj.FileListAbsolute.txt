@@ -1,0 +1,7 @@
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsModel\bin\Release\ImageStatisticsModel.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsModel\bin\Release\ImageStatisticsModel.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsModel\bin\Release\Elephant.Core.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsModel\obj\Release\ImageStatisticsModel.csproj.CoreCompileInputs.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsModel\obj\Release\ImageStatisticsModel.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsModel\obj\Release\ImageStatisticsModel.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsModel\obj\Release\ImageStatisticsModel.csprojResolveAssemblyReference.cache

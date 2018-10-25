@@ -1,0 +1,10 @@
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\bin\Release\ImageStatisticsTool.exe.config
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\bin\Release\ImageStatisticsTool.exe
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\bin\Release\ImageStatisticsTool.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\Release\ImageStatisticsTool.csproj.ResolveComReference.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\Release\ImageStatisticsTool.frmProcessExcel.resources
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\Release\ImageStatisticsTool.Properties.Resources.resources
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\Release\ImageStatisticsTool.csproj.GenerateResource.Cache
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\Release\ImageStatisticsTool.csproj.CoreCompileInputs.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\Release\ImageStatisticsTool.exe
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsTool\obj\Release\ImageStatisticsTool.pdb

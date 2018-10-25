@@ -1,0 +1,9 @@
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsIBLL\bin\DebugTest\ImageStatisticsIBLL.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsIBLL\bin\DebugTest\ImageStatisticsIBLL.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsIBLL\bin\DebugTest\ImageStatisticsModel.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsIBLL\bin\DebugTest\Elephant.Core.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsIBLL\bin\DebugTest\ImageStatisticsModel.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsIBLL\obj\DebugTest\ImageStatisticsIBLL.csprojResolveAssemblyReference.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsIBLL\obj\DebugTest\ImageStatisticsIBLL.csproj.CoreCompileInputs.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsIBLL\obj\DebugTest\ImageStatisticsIBLL.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsIBLL\obj\DebugTest\ImageStatisticsIBLL.pdb

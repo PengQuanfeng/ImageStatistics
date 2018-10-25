@@ -1,0 +1,17 @@
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\bin\DebugTest\ImageStatisticsDAL.dll.config
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\bin\DebugTest\ImageStatisticsDAL.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\bin\DebugTest\ImageStatisticsDAL.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\bin\DebugTest\Elephant.Core.Data.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\bin\DebugTest\Elephant.Core.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\bin\DebugTest\EntityFramework.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\bin\DebugTest\EntityFramework.SqlServer.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\bin\DebugTest\ImageStatisticsIDAL.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\bin\DebugTest\ImageStatisticsModel.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\bin\DebugTest\ImageStatisticsIDAL.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\bin\DebugTest\ImageStatisticsModel.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\bin\DebugTest\EntityFramework.xml
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\bin\DebugTest\EntityFramework.SqlServer.xml
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\obj\DebugTest\ImageStatisticsDAL.csprojResolveAssemblyReference.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\obj\DebugTest\ImageStatisticsDAL.csproj.CoreCompileInputs.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\obj\DebugTest\ImageStatisticsDAL.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsDAL\obj\DebugTest\ImageStatisticsDAL.pdb

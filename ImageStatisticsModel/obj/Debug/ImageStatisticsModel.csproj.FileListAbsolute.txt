@@ -1,0 +1,14 @@
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsModel\bin\Debug\ImageStatisticsModel.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsModel\bin\Debug\ImageStatisticsModel.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsModel\obj\Debug\ImageStatisticsModel.csproj.CoreCompileInputs.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsModel\obj\Debug\ImageStatisticsModel.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsModel\obj\Debug\ImageStatisticsModel.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsModel\bin\Debug\Elephant.Core.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatistics\ImageStatisticsModel\obj\Debug\ImageStatisticsModel.csprojResolveAssemblyReference.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsModel\bin\Debug\ImageStatisticsModel.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsModel\bin\Debug\ImageStatisticsModel.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsModel\obj\Debug\ImageStatisticsModel.csproj.CoreCompileInputs.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsModel\obj\Debug\ImageStatisticsModel.dll
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsModel\obj\Debug\ImageStatisticsModel.pdb
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsModel\obj\Debug\ImageStatisticsModel.csprojAssemblyReference.cache
+E:\work\02 MyProject\ImageStatistics\ImageStatisticsModel\obj\Debug\ImageStatisticsModel.csproj.CopyComplete
